@@ -1,0 +1,19 @@
+# venv
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# python
+__pycache__
+
+# data
+*.zip
+*.tif
+label.*
+*.csv
+
+# notebook
+etc/
+share/
+.ipynb_checkpoints

@@ -13,6 +13,7 @@ __pycache__
 label.*
 *.csv
 *.npy
+model.txt
 
 # notebook
 etc/

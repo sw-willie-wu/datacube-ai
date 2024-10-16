@@ -9,18 +9,28 @@
 - Open exe file and install it.
 ![Install Python](docs/pic/install_python.png)
 
+### 1.2 Create python venv
 
-jupyter matplotlib scikit-learn  geopandas rasterio lightgbm
+```bash
+>> python -m venv .venv
+>> .venv/Scripts/activate
+```
 
-- Create python venv
+### 1.3 Install package
 
-    ```bash
-    >> python -m venv .
-    >> ./Scripts/activate
-    >> pip install -r requirements.txt
-    ```
+- via requirements.txt
 
-### 1.2 Download Data
+```bash
+>> pip install -r requirements.txt
+```
+
+- via pip directly
+
+```bash
+>>> pip install jupyter matplotlib scikit-learn  geopandas rasterio lightgbm
+```
+
+## 2. Download Data
 
 - Download [Demo Data](https://thinktronltdcorp-my.sharepoint.com/:f:/g/personal/willie_wu_thinktronltd_com/ErtvtU-mdBRPhKH9fM4D-W4BEv7xU7iZajrWC3bT-n7X6w?e=P9iNiq).
 - Put data into data folder, your folder should be look like:
@@ -37,7 +47,7 @@ datacube-ai-demo
 ...
 ```
 
-## 2. Start
+## 3. Start
 
 - [Tutorial1 - Data Visualize](./Tutorial1_Data_Visualize.ipynb)
 - [Tutorial2 - Machine Learning](./Tutorial2_Machine_Learning.ipynb)

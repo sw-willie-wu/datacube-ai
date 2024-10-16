@@ -12,6 +12,7 @@ __pycache__
 *.tif
 label.*
 *.csv
+*.npy
 
 # notebook
 etc/

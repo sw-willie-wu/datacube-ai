@@ -1,11 +1,10 @@
 # venv
+etc/
 Include/
 Lib/
 Scripts/
+share/
 pyvenv.cfg
-
-# python
-__pycache__
 
 # data
 *.zip
@@ -16,6 +15,4 @@ label.*
 model.txt
 
 # notebook
-etc/
-share/
 .ipynb_checkpoints

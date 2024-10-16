@@ -9,6 +9,9 @@
 - Open exe file and install it.
 ![Install Python](docs/pic/install_python.png)
 
+
+jupyter matplotlib scikit-learn  geopandas rasterio lightgbm
+
 - Create python venv
 
     ```bash
@@ -36,5 +39,5 @@ datacube-ai-demo
 
 ## 2. Start
 
-[Tutorial1 - Data Visualize](./Tutorial1_Data_Visualize.ipynb)
-[Tutorial2 - Machine Learning](./Tutorial2_Machine_Learning.ipynb)
+- [Tutorial1 - Data Visualize](./Tutorial1_Data_Visualize.ipynb)
+- [Tutorial2 - Machine Learning](./Tutorial2_Machine_Learning.ipynb)

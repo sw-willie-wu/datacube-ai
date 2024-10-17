@@ -61,3 +61,5 @@ Bạn sẽ thấy notebook hiển thị như sau:
 
 - [Hướng dẫn 1 - Hiển thị Dữ liệu](./Tutorial1_Data_Visualize.ipynb)
 - [Hướng dẫn 2 - Máy học](./Tutorial2_Machine_Learning.ipynb)
+
+Bạn có thể thử nó tại: https://colab.research.google.com/github/sw-willie-wu/datacube-ai-demo/blob/main/Tutorial_on_Colab.ipynb

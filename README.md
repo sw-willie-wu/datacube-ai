@@ -61,3 +61,5 @@ You will see the notebook look like:
 
 - [Tutorial1 - Data Visualize](./Tutorial1_Data_Visualize.ipynb)
 - [Tutorial2 - Machine Learning](./Tutorial2_Machine_Learning.ipynb)
+
+You can try it on https://colab.research.google.com/github/sw-willie-wu/datacube-ai-demo/blob/main/Tutorial_on_Colab.ipynb

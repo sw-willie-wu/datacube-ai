@@ -27,7 +27,7 @@
 - via pip directly
 
 ```bash
->>> pip install jupyter matplotlib scikit-learn geopandas rasterio lightgbm
+>> pip install jupyter matplotlib scikit-learn geopandas rasterio lightgbm
 ```
 
 ## 2. Download Data

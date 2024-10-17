@@ -7,7 +7,7 @@ Dịch sang các ngôn ngữ khác: [English](README.md)
 ### 1.1 Cài đặt Python
 
 - Hệ điều hành: Windows 11
-- Tải xuống [Python 3.12 (x64)](https://www.python.org/ftp/python/3.12.7/python-3.12.7-amd64.exe) hoặc nhận [other version](https://www.python.org/downloads/).
+- Tải xuống [Python 3.12 (x64)](https://www.python.org/ftp/python/3.12.7/python-3.12.7-amd64.exe) hoặc nhận [phiên bản khác](https://www.python.org/downloads/).
 - Mở tệp exe và cài đặt nó.
 ![Install Python](docs/pic/install_python.png)
 
@@ -34,7 +34,7 @@ Dịch sang các ngôn ngữ khác: [English](README.md)
 
 ## 2. Tải dữ liệu
 
-- Tải xuống [Demo Data](https://thinktronltdcorp-my.sharepoint.com/:f:/g/personal/willie_wu_thinktronltd_com/ErtvtU-mdBRPhKH9fM4D-W4BEv7xU7iZajrWC3bT-n7X6w?e=P9iNiq).
+- Tải xuống [Dữ liệu Demo](https://thinktronltdcorp-my.sharepoint.com/:f:/g/personal/willie_wu_thinktronltd_com/ErtvtU-mdBRPhKH9fM4D-W4BEv7xU7iZajrWC3bT-n7X6w?e=P9iNiq).
 - Đặt dữ liệu vào thư mục data, cấu trúc thư mục của bạn sẽ trông như sau:
 
 ```tree

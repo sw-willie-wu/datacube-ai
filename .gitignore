@@ -8,7 +8,7 @@ pyvenv.cfg
 
 # data
 *.zip
-*.tif
+*.tif*
 label.*
 *.csv
 *.npy

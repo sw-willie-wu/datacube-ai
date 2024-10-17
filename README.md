@@ -1,5 +1,7 @@
 # DataCube AI Demo
 
+Read in other languages: [Tiếng Việt](README_viet.md)
+
 ## 1. Setup Envrionment
 
 ### 1.1 Install Python

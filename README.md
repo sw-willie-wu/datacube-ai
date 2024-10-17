@@ -27,7 +27,7 @@
 - via pip directly
 
 ```bash
->>> pip install jupyter matplotlib scikit-learn  geopandas rasterio lightgbm
+>>> pip install jupyter matplotlib scikit-learn geopandas rasterio lightgbm
 ```
 
 ## 2. Download Data
@@ -48,6 +48,14 @@ datacube-ai-demo
 ```
 
 ## 3. Start
+
+```bash
+>> jupyter notebook
+```
+
+You will see the notebook look like:
+
+![Start Jupyter](docs/pic/start_jupyter.png)
 
 - [Tutorial1 - Data Visualize](./Tutorial1_Data_Visualize.ipynb)
 - [Tutorial2 - Machine Learning](./Tutorial2_Machine_Learning.ipynb)
